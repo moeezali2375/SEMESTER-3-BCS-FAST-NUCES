@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "__config": "cpp",
+        "__errc": "cpp",
+        "__hash_table": "cpp",
+        "__node_handle": "cpp"
+    }
+}

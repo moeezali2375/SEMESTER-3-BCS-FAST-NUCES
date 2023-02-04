@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "__locale": "cpp",
+        "__tuple": "cpp",
+        "concepts": "cpp",
+        "iterator": "cpp",
+        "string": "cpp",
+        "string_view": "cpp",
+        "tuple": "cpp",
+        "type_traits": "cpp",
+        "variant": "cpp",
+        "version": "cpp"
+    }
+}

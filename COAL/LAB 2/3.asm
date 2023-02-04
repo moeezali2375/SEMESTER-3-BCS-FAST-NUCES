@@ -1,0 +1,10 @@
+[org 0x1000]
+mov ax,200
+mov bx,150
+mov byte[250],50
+mov byte[200],25
+mov bx,[200]
+mov ax,bx
+mov cx,[250]
+mov ax,0x4c00
+int 0x0021

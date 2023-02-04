@@ -1,0 +1,2 @@
+
+    while (counter != 0)

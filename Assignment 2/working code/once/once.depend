@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1665150161 source:c:\codeblocks\one\once\myconsole.cpp
+	<windows.h>
+	<WinCon.h>
+	<iostream>
+	<conio.h>
+	"myconsole.h"
+
+1665292771 c:\codeblocks\one\once\myconsole.h
+
+1665409563 source:c:\codeblocks\one\once\main.cpp
+	<fstream>
+	<iostream>
+	<stdlib.h>
+	<cstring>
+	<fstream>
+	"stacks.h"
+	"doubly_list.h"
+	"myconsole.h"
+	"editor.h"
+
+1664803914 c:\codeblocks\one\once\editor.h
+
+1665403024 c:\codeblocks\one\once\doubly_list.h
+	<iostream>
+
+1665403578 c:\codeblocks\one\once\stacks.h
+	<iostream>
+
